@@ -24,6 +24,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubFaltyn&layout=compact&theme=radical)
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   6 hrs 53 mins   █████████████████▒░░░░░░░   69.22 % 
+CSS          2 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.74 % 
+JSON         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+```
 <!--END_SECTION:waka-->
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JakubFaltyn&v=2)
