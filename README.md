@@ -1,6 +1,6 @@
  # Hello, I'm Jacob!
  
-<p>Welcome to my page! </br> I have been interested in IT for 10 years, now I'm aspiring to be a Frontend Developer :)</p>
+<p>Welcome to my page! </br> I have been interested in IT for 10 years, now I'm aspiring to be a Frontend Developer and I'm currently looking for a job :)</p>
 
  
 ## 🛠 &nbsp; Things I code with
