@@ -22,12 +22,4 @@
 ## 📈 &nbsp; GitHub Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubFaltyn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubFaltyn&layout=compact&theme=radical)
-
-<!--START_SECTION:waka-->
-```text
-CSS          2 hrs 27 mins   █████████████░░░░░░░░░░░░   51.88 % 
-JavaScript   2 hrs 16 mins   ████████████░░░░░░░░░░░░░   47.86 % 
-```
-<!--END_SECTION:waka-->
-
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JakubFaltyn&v=2)
