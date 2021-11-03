@@ -19,8 +19,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-05122A?style=flat&logo=Adobe%20XD)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-05122A?style=flat&logo=adobeillustrator)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-05122A?style=flat&logo=adobeillustrator)&nbsp;
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-05122A?style=flat&logo=Adobe%20Dreamweaver)&nbsp;
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-05122A?style=flat&logo=gimp)&nbsp;
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-05122A?style=flat&logo=Adobe%20After%20Effects)&nbsp;
