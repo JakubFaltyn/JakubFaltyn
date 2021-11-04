@@ -14,7 +14,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Cpp](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&)&nbsp;
-![Cpp](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
