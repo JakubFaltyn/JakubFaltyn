@@ -28,6 +28,5 @@
 
 ## 📈 &nbsp; GitHub Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubFaltyn&show_icons=true&hide=stars,prs&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubFaltyn&layout=compact&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubFaltyn&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubFaltyn&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JakubFaltyn&v=2)
