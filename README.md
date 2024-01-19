@@ -1,9 +1,13 @@
- # Hello, I'm Jacob!
+ # 👋 Greetings! I'm Jacob - a meticulous Frontend Developer ✨
  
-<p>Welcome to my page! </br> If you want me in your team feel free to reach out to me :)</p>
+🚀 Passionate about building web applications with pixel-perfect precision and an unwavering attention to detail. Every line of code I write is aimed at creating digital experiences that are welcoming and usable for all.
 
- 
-## 🛠 &nbsp; Things I code with
+- 🧐 Interested in full stack. Recent focus on Next.js.
+- 🎓 Currently enrolled at the College of Economics and Computer Science, working towards a degree in Applied Computer Science.
+- 🌱 Currently diving deep into SEO strategies to enhance online visibility and user experience
+- 💻 With 3 years' development working experience.
+
+## 💻 My toolkit includes:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
